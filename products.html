@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sản phẩm – Cầu lông</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+  <body class="products-page">
+    <!-- ============ HEADER ============ -->
+    <header class="site-bar">
+      <a href="./index.html" class="back-link">← Trang chủ</a>
+      <div class="bar-title">🏸 Sản phẩm cầu lông</div>
+      <button type="button" id="cart-btn" class="cart-link">
+        Xem giỏ hàng 🛒 <span id="cart-count">0</span>
+      </button>
+    </header>
+
+    <!-- ============ BODY ============ -->
+    <main class="products-main">
+      <section class="products-hero">
+        <h1>Dụng cụ cầu lông</h1>
+        <p class="players-sub">Vợt, cầu, giày và phụ kiện cho mọi trình độ.</p>
+      </section>
+
+      <div class="player-tools">
+        <input
+          type="search"
+          id="product-search"
+          placeholder="Tìm sản phẩm..."
+        />
+        <select id="product-filter">
+          <option value="all">Tất cả loại</option>
+          <option value="Vợt">Vợt</option>
+          <option value="Quấn cán">Quấn cán</option>
+          <option value="Cầu">Cầu</option>
+          <option value="Giày">Giày</option>
+          <option value="Phụ kiện">Phụ kiện</option>
+        </select>
+        <button type="button" id="add-btn" class="btn btn-buy">
+          + Thêm sản phẩm
+        </button>
+      </div>
+
+      <p id="product-status" class="player-status"></p>
+      <div id="product-list" class="player-grid"></div>
+
+      <!-- Hộp chi tiết sản phẩm -->
+      <dialog id="product-modal">
+        <button type="button" id="modal-close" aria-label="Đóng">✕</button>
+        <div id="modal-body"></div>
+      </dialog>
+
+      <!-- Hộp giỏ hàng -->
+      <dialog id="cart-modal">
+        <button type="button" id="cart-close" aria-label="Đóng">✕</button>
+        <h2>Giỏ hàng của bạn</h2>
+        <div id="cart-items"></div>
+        <div class="cart-footer">
+          <div class="cart-total">
+            Tổng: <strong id="cart-total">0₫</strong>
+          </div>
+          <button type="button" id="cart-clear" class="btn btn-clear">
+            Xóa tất cả
+          </button>
+        </div>
+      </dialog>
+
+      <!-- Hộp thêm sản phẩm -->
+      <dialog id="add-modal">
+        <button type="button" id="add-close" aria-label="Đóng">✕</button>
+        <h2>Thêm sản phẩm</h2>
+        <form id="add-form">
+          <input id="new-name" placeholder="Tên sản phẩm" required />
+          <input
+            id="new-price"
+            type="number"
+            min="0"
+            placeholder="Giá (₫)"
+            required
+          />
+          <input
+            id="new-image"
+            placeholder="Đường dẫn ảnh (vd: ../images/yonex-ac102ex.jpg)"
+          />
+          <select id="new-category" required>
+            <option value="">Chọn loại phụ kiện</option>
+            <option value="Vợt">Vợt</option>
+            <option value="Quấn cán">Quấn cán</option>
+            <option value="Cầu">Cầu</option>
+            <option value="Giày">Giày</option>
+            <option value="Phụ kiện">Phụ kiện</option>
+          </select>
+          <textarea
+            id="new-desc"
+            rows="3"
+            placeholder="Mô tả sản phẩm"
+          ></textarea>
+          <button type="submit" class="btn btn-buy">Lưu</button>
+          <button type="button" id="add-cancel" class="btn btn-cancel">
+            Hủy
+          </button>
+        </form>
+      </dialog>
+    </main>
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="site-footer">
+      <div class="footer-note">© 2026 Cầu lông.</div>
+    </footer>
+
+    <script src="../java/products.js"></script>
+  </body>
+</html>

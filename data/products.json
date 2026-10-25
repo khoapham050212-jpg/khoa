@@ -1,0 +1,367 @@
+[
+  {
+    "id": 1,
+    "name": "Yonex Astrox 88D Pro 2024",
+    "brand": "Yonex",
+    "category": "Vợt",
+    "price": 5039000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%230f3d2e' stroke-width='3'/><path d='M50 150 L50 250' stroke='%230f3d2e' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%230f3d2e' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Vợt nặng đầu, thân cứng, dành cho người chơi tấn công ở cuối sân, đặc biệt trong đánh đôi. Khung HM Graphite, CFR và Tungsten, công nghệ 2G-Namd Flex Force. Có bản 3U (85–89g) và 4U (80–84g).",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Nặng đầu (Head Heavy)" },
+      { "label": "Độ cứng", "value": "Cứng (Stiff)" },
+      { "label": "Khung vợt", "value": "HM Graphite + CFR + Tungsten" },
+      { "label": "Thân vợt", "value": "HM Graphite + 2G-Namd Flex Force" },
+      { "label": "Trọng lượng", "value": "3U (85–89g) / 4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5 / G6" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 28 lbs (12.7 kg)" }
+    ],
+    "rating": 4.9,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Yonex Astrox 88D Tour 2024",
+    "brand": "Yonex",
+    "category": "Vợt",
+    "price": 2750000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%23165a43' stroke-width='3'/><path d='M50 150 L50 250' stroke='%23165a43' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%23165a43' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Phiên bản tầm trung của dòng Astrox 88D, nặng đầu, hợp người chơi thích lối đánh tấn công với mức giá dễ tiếp cận hơn bản Pro.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Nặng đầu (Head Heavy)" },
+      { "label": "Độ cứng", "value": "Cứng vừa (Medium Stiff)" },
+      { "label": "Khung vợt", "value": "HM Graphite + Tungsten" },
+      { "label": "Thân vợt", "value": "HM Graphite + Nanomesh Neo" },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 28 lbs (12.7 kg)" }
+    ],
+    "rating": 4.7,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "name": "Yonex Astrox 88D Game 2024",
+    "brand": "Yonex",
+    "category": "Vợt",
+    "price": 1730000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%23f4c430' stroke-width='3'/><path d='M50 150 L50 250' stroke='%23f4c430' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%23f4c430' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Phiên bản phổ thông của dòng Astrox 88D, phù hợp người chơi phong trào muốn làm quen với vợt nặng đầu.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Nặng đầu (Head Heavy)" },
+      { "label": "Độ cứng", "value": "Trung bình (Medium)" },
+      { "label": "Khung vợt", "value": "HM Graphite" },
+      { "label": "Thân vợt", "value": "HM Graphite" },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 24 lbs (10.9 kg)" }
+    ],
+    "rating": 4.5,
+    "stock": 35
+  },
+  {
+    "id": 4,
+    "name": "Yonex Astrox 77 Play Limited",
+    "brand": "Yonex",
+    "category": "Vợt",
+    "price": 1150000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%235d6b64' stroke-width='3'/><path d='M50 150 L50 250' stroke='%235d6b64' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%235d6b64' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Vợt Yonex dòng Astrox phiên bản giới hạn màu Light Beige, giá mềm cho người mới chơi.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Nặng đầu (Head Heavy)" },
+      { "label": "Độ cứng", "value": "Trung bình (Medium)" },
+      { "label": "Khung vợt", "value": "HM Graphite" },
+      { "label": "Thân vợt", "value": "HM Graphite" },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 24 lbs (10.9 kg)" }
+    ],
+    "rating": 4.3,
+    "stock": 40
+  },
+  {
+    "id": 5,
+    "name": "Yonex Arcsaber 7 Play Limited",
+    "brand": "Yonex",
+    "category": "Vợt",
+    "price": 1300000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%23c0392b' stroke-width='3'/><path d='M50 150 L50 250' stroke='%23c0392b' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%23c0392b' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Vợt Yonex dòng Arcsaber phiên bản giới hạn màu Light Beige, dòng vợt thiên về kiểm soát cầu.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Cân bằng (Even Balance)" },
+      { "label": "Độ cứng", "value": "Trung bình (Medium)" },
+      { "label": "Khung vợt", "value": "HM Graphite + Nanocell Neo" },
+      { "label": "Thân vợt", "value": "HM Graphite" },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 24 lbs (10.9 kg)" }
+    ],
+    "rating": 4.4,
+    "stock": 28
+  },
+  {
+    "id": 6,
+    "name": "Yonex NanoFlare 270 Speed",
+    "brand": "Yonex",
+    "category": "Vợt",
+    "price": 1739000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%238e44ad' stroke-width='3'/><path d='M50 150 L50 250' stroke='%238e44ad' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%238e44ad' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Vợt Yonex dòng NanoFlare phiên bản màu Purple, dòng vợt thiên về tốc độ vung và phản xạ nhanh.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Nhẹ đầu (Head Light)" },
+      { "label": "Độ cứng", "value": "Trung bình (Medium)" },
+      { "label": "Khung vợt", "value": "HM Graphite + Nanocell Neo" },
+      { "label": "Thân vợt", "value": "HM Graphite" },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 28 lbs (12.7 kg)" }
+    ],
+    "rating": 4.6,
+    "stock": 22
+  },
+  {
+    "id": 7,
+    "name": "Yonex Astrox Lite 43i",
+    "brand": "Yonex",
+    "category": "Vợt",
+    "price": 709000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%233498db' stroke-width='3'/><path d='M50 150 L50 250' stroke='%233498db' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%233498db' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Vợt giá rẻ của Yonex cho người mới bắt đầu và chơi giải trí.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Nặng đầu (Head Heavy)" },
+      { "label": "Độ cứng", "value": "Mềm (Flexible)" },
+      { "label": "Khung vợt", "value": "HM Graphite" },
+      { "label": "Thân vợt", "value": "HM Graphite" },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 22 lbs (10 kg)" }
+    ],
+    "rating": 4.2,
+    "stock": 60
+  },
+  {
+    "id": 8,
+    "name": "Ống cầu Yonex Aerosensa AS-50 (12 quả)",
+    "brand": "Yonex",
+    "category": "Cầu",
+    "price": 1769000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 150'><rect x='20' y='10' width='60' height='130' rx='4' fill='%23ffffff' stroke='%230f3d2e' stroke-width='2'/><rect x='20' y='30' width='60' height='15' fill='%230f3d2e'/><rect x='20' y='105' width='60' height='15' fill='%230f3d2e'/><text x='50' y='90' font-family='sans-serif' font-size='12' font-weight='bold' fill='%230f3d2e' text-anchor='middle'>AS-50</text><circle cx='50' cy='125' r='6' fill='%23d9d8cc'/></svg>",
+    "emoji": "🪶",
+    "description": "Cầu lông vũ ngỗng cao cấp nhất của Yonex, bay ổn định và bền, dùng ở nhiều giải đấu quốc tế. Hộp 12 quả.",
+    "specs": [
+      { "label": "Chất liệu lông", "value": "Lông ngỗng tự nhiên" },
+      { "label": "Tốc độ", "value": "77 (Trung bình - sân tiêu chuẩn)" },
+      { "label": "Số lượng", "value": "12 quả/ống" },
+      { "label": "Đầu cầu", "value": "Gỗ bần tự nhiên" },
+      { "label": "Độ bền", "value": "Rất cao (Giải đấu quốc tế)" }
+    ],
+    "rating": 4.8,
+    "stock": 45
+  },
+  {
+    "id": 9,
+    "name": "Giày cầu lông Yonex Power Cushion 65 Z3",
+    "brand": "Yonex",
+    "category": "Giày",
+    "price": 2450000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 120'><path d='M20 80 Q20 50 50 50 L100 50 Q140 50 170 80 L180 100 Q180 110 170 110 L30 110 Q20 110 20 100 Z' fill='%23ffffff' stroke='%23d9d8cc' stroke-width='2'/><path d='M20 100 L180 100' stroke='%23f4c430' stroke-width='4'/><circle cx='60' cy='70' r='4' fill='%230f3d2e'/><circle cx='100' cy='70' r='4' fill='%230f3d2e'/><circle cx='140' cy='70' r='4' fill='%230f3d2e'/></svg>",
+    "emoji": "👟",
+    "description": "Giày đa năng phân khúc cao cấp, đệm Power Cushion+ giảm chấn, đế Radial Blade bám sân, form 3E cho bàn chân bình thường. Dùng cho sân trong nhà.",
+    "specs": [
+      { "label": "Công nghệ đệm", "value": "Power Cushion+" },
+      { "label": "Đế ngoài", "value": "Radial Blade Sole (cao su)" },
+      { "label": "Form giày", "value": "3E (Bàn chân bình thường)" },
+      { "label": "Loại sân", "value": "Sân trong nhà (Indoor)" },
+      { "label": "Trọng lượng", "value": "~310g (Size 40)" },
+      { "label": "Chất liệu upper", "value": "Lưới thoáng khí + Da tổng hợp" }
+    ],
+    "rating": 4.7,
+    "stock": 18
+  },
+  {
+    "id": 10,
+    "name": "Quấn cán Yonex Super Grap AC102EX (1 cuốn)",
+    "brand": "Yonex",
+    "category": "Phụ kiện",
+    "price": 43000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 60'><rect x='10' y='10' width='80' height='40' rx='4' fill='%23ffffff' stroke='%23d9d8cc' stroke-width='2'/><rect x='10' y='20' width='80' height='10' fill='%230f3d2e'/><rect x='10' y='30' width='80' height='10' fill='%23165a43'/></svg>",
+    "emoji": "🧵",
+    "description": "Quấn cán polyurethane rộng 25mm, dày 0.6mm, thấm mồ hôi và giảm sốc, tăng độ bám khi cầm vợt.",
+    "specs": [
+      { "label": "Chất liệu", "value": "Polyurethane (PU)" },
+      { "label": "Độ dày", "value": "0.6 mm" },
+      { "label": "Chiều rộng", "value": "25 mm" },
+      { "label": "Số lượng", "value": "1 cuốn" },
+      { "label": "Đặc tính", "value": "Thấm mồ hôi, chống trượt, êm tay" }
+    ],
+    "rating": 4.5,
+    "stock": 150
+  },
+  {
+    "id": 11,
+    "name": "Vợt Victor Thruster Ryuga II",
+    "brand": "Victor",
+    "category": "Vợt",
+    "price": 2690000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%23000' stroke-width='3'/><path d='M50 150 L50 250' stroke='%23000' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23333' stroke='%23000' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Vợt nặng đầu thiên về tấn công, khung cứng, cho cú smash dứt khoát. Phù hợp người chơi trung cấp trở lên.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Khoảng 300 mm (Nặng đầu)" },
+      { "label": "Độ cứng", "value": "Cứng (Stiff)" },
+      {
+        "label": "Khung vợt",
+        "value": "High Resilience Modulus Graphite + HARD CORED TECHNOLOGY"
+      },
+      {
+        "label": "Thân vợt",
+        "value": "High Resilience Modulus Graphite + PYROFIL + 6.6 SHAFT"
+      },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "G5" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Swing weight", "value": "3U: 87 kg/cm²" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 31 lbs (14 kg)" }
+    ],
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 12,
+    "name": "Vợt Li-Ning Axforce 80",
+    "brand": "Li-Ning",
+    "category": "Vợt",
+    "price": 3150000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'><path d='M50 10 C20 10 10 40 10 80 C10 120 20 140 50 150 C80 140 90 120 90 80 C90 40 80 10 50 10 Z' fill='none' stroke='%23e74c3c' stroke-width='3'/><path d='M50 150 L50 250' stroke='%23e74c3c' stroke-width='4'/><rect x='40' y='250' width='20' height='40' rx='4' fill='%23e4ebe6' stroke='%23e74c3c' stroke-width='2'/><line x1='20' y1='40' x2='80' y2='40' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='70' x2='85' y2='70' stroke='%23d9d8cc' stroke-width='1'/><line x1='15' y1='100' x2='85' y2='100' stroke='%23d9d8cc' stroke-width='1'/><line x1='20' y1='130' x2='80' y2='130' stroke='%23d9d8cc' stroke-width='1'/></svg>",
+    "emoji": "🏸",
+    "description": "Vợt công thủ toàn diện, thân vợt cứng vừa, cầm nhẹ tay và dễ điều cầu, hợp lối chơi đôi.",
+    "specs": [
+      { "label": "Điểm cân bằng", "value": "Nặng đầu nhẹ (Slight Head Heavy)" },
+      { "label": "Độ cứng", "value": "Cứng vừa (Medium Stiff)" },
+      { "label": "Khung vợt", "value": "Military Grade Carbon Fiber" },
+      { "label": "Thân vợt", "value": "High Modulus Graphite + TB Nano" },
+      { "label": "Trọng lượng", "value": "4U (80–84g)" },
+      { "label": "Chu vi cán", "value": "S1 (G5)" },
+      { "label": "Chiều dài tổng thể", "value": "675 mm" },
+      { "label": "Sức căng tối đa", "value": "4U ≤ 30 lbs (13.6 kg)" }
+    ],
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 13,
+    "name": "Ống cầu Yonex Mavis 350 (12 quả)",
+    "brand": "Yonex",
+    "category": "Cầu",
+    "price": 330000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 150'><rect x='20' y='10' width='60' height='130' rx='4' fill='%23ffffff' stroke='%23165a43' stroke-width='2'/><rect x='20' y='40' width='60' height='10' fill='%23165a43'/><text x='50' y='90' font-family='sans-serif' font-size='10' font-weight='bold' fill='%23165a43' text-anchor='middle'>MAVIS 350</text><circle cx='50' cy='125' r='6' fill='%23d9d8cc'/></svg>",
+    "emoji": "🪶",
+    "description": "Cầu nhựa bền, bay ổn định, rất hợp tập luyện và chơi phong trào hằng ngày. Hộp 12 quả.",
+    "specs": [
+      { "label": "Chất liệu", "value": "Nhựa tổng hợp (Nylon)" },
+      { "label": "Tốc độ", "value": "77 (Trung bình - sân tiêu chuẩn)" },
+      { "label": "Số lượng", "value": "12 quả/ống" },
+      { "label": "Đầu cầu", "value": "Nhựa cứng" },
+      { "label": "Độ bền", "value": "Rất cao (Tập luyện/phong trào)" }
+    ],
+    "rating": 4.4,
+    "stock": 200
+  },
+  {
+    "id": 14,
+    "name": "Giày cầu lông Victor P9200III",
+    "brand": "Victor",
+    "category": "Giày",
+    "price": 1890000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 120'><path d='M20 80 Q20 50 50 50 L100 50 Q140 50 170 80 L180 100 Q180 110 170 110 L30 110 Q20 110 20 100 Z' fill='%23ffffff' stroke='%23d9d8cc' stroke-width='2'/><path d='M20 100 L180 100' stroke='%23f4c430' stroke-width='4'/><circle cx='60' cy='70' r='4' fill='%230f3d2e'/><circle cx='100' cy='70' r='4' fill='%230f3d2e'/><circle cx='140' cy='70' r='4' fill='%230f3d2e'/></svg>",
+    "emoji": "👟",
+    "description": "Giày bám sân tốt, đế êm và hỗ trợ cổ chân, giúp di chuyển nhanh và giảm nguy cơ chấn thương.",
+    "specs": [
+      { "label": "Công nghệ đệm", "value": "NitroLite + Energmax" },
+      { "label": "Đế ngoài", "value": "Cao su tự nhiên (Bám sân)" },
+      { "label": "Form giày", "value": "Tiêu chuẩn (Standard)" },
+      { "label": "Loại sân", "value": "Sân trong nhà (Indoor)" },
+      { "label": "Trọng lượng", "value": "~320g (Size 40)" },
+      { "label": "Chất liệu upper", "value": "Da tổng hợp + Lưới thoáng khí" }
+    ],
+    "rating": 4.5,
+    "stock": 25
+  },
+  {
+    "id": 15,
+    "name": "Túi vợt Yonex BA92431W (6 cây)",
+    "brand": "Yonex",
+    "category": "Phụ kiện",
+    "price": 1450000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='20' y='20' width='60' height='60' rx='10' fill='%230f3d2e'/><path d='M35 20 L35 10 Q50 5 65 10 L65 20' fill='none' stroke='%230f3d2e' stroke-width='4'/><rect x='30' y='40' width='40' height='20' rx='2' fill='%23e4ebe6'/></svg>",
+    "emoji": "🎒",
+    "description": "Túi đựng được 6 cây vợt, có ngăn riêng cho giày và quần áo, chất liệu chống thấm nhẹ.",
+    "specs": [
+      { "label": "Sức chứa", "value": "6 cây vợt" },
+      { "label": "Chất liệu", "value": "Polyester chống thấm nhẹ" },
+      {
+        "label": "Ngăn phụ",
+        "value": "Ngăn giày, ngăn quần áo, ngăn phụ kiện"
+      },
+      { "label": "Kích thước", "value": "78 x 30 x 33 cm" },
+      { "label": "Trọng lượng", "value": "~1.2 kg" }
+    ],
+    "rating": 4.6,
+    "stock": 30
+  },
+  {
+    "id": 16,
+    "name": "Dây cước Yonex BG65 (1 sợi)",
+    "brand": "Yonex",
+    "category": "Phụ kiện",
+    "price": 120000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='35' fill='none' stroke='%230f3d2e' stroke-width='8'/><circle cx='50' cy='50' r='20' fill='none' stroke='%230f3d2e' stroke-width='6'/></svg>",
+    "emoji": "🧵",
+    "description": "Dây cước bền, độ nảy tốt, được rất nhiều người chơi phong trào lựa chọn để căng vợt.",
+    "specs": [
+      { "label": "Chất liệu", "value": "Multifilament Nylon" },
+      { "label": "Độ dày", "value": "0.70 mm" },
+      { "label": "Chiều dài", "value": "10 m (1 sợi)" },
+      {
+        "label": "Đặc tính",
+        "value": "Độ bền cao, độ nảy trung bình, giữ căng tốt"
+      },
+      { "label": "Sức căng khuyến nghị", "value": "18 – 30 lbs" }
+    ],
+    "rating": 4.7,
+    "stock": 300
+  },
+  {
+    "id": 17,
+    "name": "Băng cổ tay Yonex AC489",
+    "brand": "Yonex",
+    "category": "Phụ kiện",
+    "price": 85000,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='25' y='30' width='50' height='40' rx='8' fill='%23f4c430'/><line x1='25' y1='45' x2='75' y2='45' stroke='%230f3d2e' stroke-width='2'/><line x1='25' y1='55' x2='75' y2='55' stroke='%230f3d2e' stroke-width='2'/></svg>",
+    "emoji": "🧤",
+    "description": "Băng cổ tay cotton thấm mồ hôi, co giãn tốt, giữ tay khô ráo khi chơi lâu.",
+    "specs": [
+      { "label": "Chất liệu", "value": "Cotton + Spandex" },
+      { "label": "Kích thước", "value": "Free size (co giãn)" },
+      { "label": "Đặc tính", "value": "Thấm mồ hôi, co giãn 4 chiều" },
+      { "label": "Màu sắc", "value": "Trắng / Đen" },
+      { "label": "Số lượng", "value": "1 chiếc" }
+    ],
+    "rating": 4.3,
+    "stock": 120
+  }
+]

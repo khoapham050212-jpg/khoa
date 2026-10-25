@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Đăng nhập – Cầu lông</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+  <body>
+    <div
+      class="auth"
+      style="
+        --bg: url(&quot;https://images.pexels.com/photos/2202685/pexels-photo-2202685.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600&quot;);
+      "
+    >
+      <div class="auth-brand"><span>🏸</span>Cầu lông</div>
+
+      <div class="auth-intro">
+        <h1>Quay lại sân đấu và tiếp tục đam mê của bạn.</h1>
+        <a class="pill" href="./register.html">Tạo tài khoản mới</a>
+        <p>
+          Cầu lông giúp bạn khỏe hơn, vui hơn và có thêm nhiều bạn bè mỗi ngày.
+        </p>
+      </div>
+
+      <main class="auth-card">
+        <h2>🏸 Đăng nhập</h2>
+        <p class="sub">Nhập email và mật khẩu của bạn.</p>
+
+        <form id="login-form">
+          <label
+            >Email
+            <input
+              type="email"
+              id="email"
+              placeholder="ban@example.com"
+              autocomplete="email"
+              required
+            />
+          </label>
+          <label
+            >Mật khẩu
+            <input
+              type="password"
+              id="password"
+              placeholder="Nhập mật khẩu"
+              autocomplete="current-password"
+              required
+            />
+          </label>
+          <button class="btn" type="submit">Đăng nhập</button>
+        </form>
+      </main>
+    </div>
+    <script src="../java/login.js"></script>
+  </body>
+</html>
